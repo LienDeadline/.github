@@ -2,7 +2,7 @@
 
 Mechanics lien and preliminary notice deadlines for US construction suppliers.
 
-[Website](https://liendeadline.com) · [Deadline calculator](https://liendeadline.com/calculator) · [State lien guides](https://liendeadline.com/state-lien-guides) · [Contact](https://liendeadline.com/contact)
+[Website](https://liendeadline.com) · [Deadline calculator](https://liendeadline.com/calculator) · [State lien guides](https://liendeadline.com/state-lien-guides) · [Help center](https://liendeadline.com/help) · [Contact](https://liendeadline.com/contact)
 
 ## Open source
 
@@ -12,6 +12,8 @@ Mechanics lien and preliminary notice deadlines for US construction suppliers.
 | [skills](https://github.com/LienDeadline/skills) | Agent skill and plugins for Claude Code, Codex, Cursor, Gemini CLI and GitHub Copilot. |
 
 ## Try it
+
+In Claude on the web, desktop or mobile, connect [LienDeadline from the Connectors directory](https://claude.ai/directory/connectors/liendeadline).
 
 Add the hosted MCP server to Claude Code, with nothing to install and no key:
 
@@ -26,3 +28,5 @@ npx skills add LienDeadline/skills
 ```
 
 Results are calculated baselines from published state rules, not legal advice.
+
+[Privacy policy](https://liendeadline.com/privacy) · [Terms of service](https://liendeadline.com/terms) · [Security](https://liendeadline.com/security)
